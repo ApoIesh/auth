@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901884390863",
+    "project_id": "auth-f44er",
+    "storage_bucket": "auth-f44er.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901884390863:android:5f0bbdc7e8f280d2e0b6ba",
+        "android_client_info": {
+          "package_name": "com.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901884390863-rin05ca80je0cuc751pphqkm2n9n80dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9M4dnFnMfJs-NQTWi8O97z00qbxuiGgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901884390863-rin05ca80je0cuc751pphqkm2n9n80dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
